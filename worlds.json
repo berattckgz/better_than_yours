@@ -1,14 +1,14 @@
 [
   {
-    "id": 31,
-    "name": "31 CEKEN MAYMUN",
+    "id": 1,
+    "name": "World 0 (ANKARA)",
     "host": "10.152.5.97",
     "port": 21539,
     "region": "US",
     "is_default": true,
     "include_in_randomization": true,
     "players": 3169,
-    "members_only": true,
+    "members_only": false,
     "country_code": "us",
     "is_boosted": true,
     "is_hot": true,
