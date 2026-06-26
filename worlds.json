@@ -1,17 +1,17 @@
 [
   {
-    "id": 1,
-    "name": "World 31 (purna)",
+    "id": 31,
+    "name": "World 31 (OZOM NUB)",
     "host": "10.152.5.97",
     "port": 21539,
     "region": "US",
     "is_default": true,
     "include_in_randomization": true,
-    "players": 1,
-    "members_only": false,
+    "players": 3169,
+    "members_only": true,
     "country_code": "us",
     "is_boosted": true,
     "is_hot": true,
-    "boost_remaining": 9999999999999999999999999
+    "boost_remaining": 9
   }
 ]
