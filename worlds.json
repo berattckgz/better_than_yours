@@ -1,7 +1,7 @@
 [
   {
     "id": 31,
-    "name": "World 31 (OZOM NUB)",
+    "name": "31 CEKEN MAYMUN",
     "host": "10.152.5.97",
     "port": 21539,
     "region": "US",
@@ -12,6 +12,6 @@
     "country_code": "us",
     "is_boosted": true,
     "is_hot": true,
-    "boost_remaining": 9
+    "boost_remaining": 90
   }
 ]
