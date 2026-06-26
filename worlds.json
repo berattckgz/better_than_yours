@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "World 31 (purna)",
+    "host": "10.152.5.97",
+    "port": 21539,
+    "region": "US",
+    "is_default": true,
+    "include_in_randomization": true,
+    "players": 1,
+    "members_only": false,
+    "country_code": "us",
+    "is_boosted": true,
+    "is_hot": true,
+    "boost_remaining": 9999999999999999999999999
+  }
+]
